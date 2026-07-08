@@ -1,0 +1,51 @@
+{
+  "proposal_id": "DUMMY-HDFC-EASY-001",
+  "insurer": "HDFC ERGO",
+  "product_name": "Easy Health",
+  "proposal_type": "health",
+  "proposer_details": {
+    "full_name": "Priya Nair",
+    "short_name": "Priya",
+    "gender": "female",
+    "date_of_birth": "1990-07-05",
+    "age": 34,
+    "marital_status": "married",
+    "nationality": "Indian",
+    "residential_status": "resident",
+    "contact": {
+      "mobile": "9988776655",
+      "email": "priya.nair@example.com",
+      "address": "B-302, Andheri East",
+      "city": "Mumbai",
+      "pincode": "400069",
+      "state": "Maharashtra"
+    },
+    "occupation": "School Teacher",
+    "nature_of_duties": "Teaching in a private school",
+    "annual_income": 600000
+  },
+  "policy_details": {
+    "sum_assured": 500000,
+    "term_years": 1,
+    "premium_mode": "yearly",
+    "plan_variation": "family floater"
+  },
+  "nominee_details": {
+    "name": "Arjun Nair",
+    "age": 7,
+    "relationship": "son"
+  },
+  "health_declarations": {
+    "height_cm": 160,
+    "weight_kg": 60,
+    "existing_diseases": [],
+    "hospitalization_last_3_years": "c-section delivery in 2017",
+    "smoker": false,
+    "alcohol": false
+  },
+  "existing_policies": [],
+  "metadata": {
+    "source_form": "hdfc_easy_health",
+    "ingest_timestamp": "2026-07-08T00:00:00Z"
+  }
+}

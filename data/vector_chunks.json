@@ -1,0 +1,344 @@
+[
+  {
+    "chunk_id": "DUMMY-HDFC-EASY-001-summary",
+    "proposal_id": "DUMMY-HDFC-EASY-001",
+    "source_file": "data\\proposals\\hdfc_dummy_001.json",
+    "text": "Proposal ID: DUMMY-HDFC-EASY-001\nInsurer: HDFC ERGO\nProduct: Easy Health\nType: health\nName: Priya Nair\nAge: 34\nOccupation: School Teacher\nAnnual Income: 600000\nCity: Mumbai\nState: Maharashtra\nSum Assured: 500000\nPlan Variation: family floater\nNominee: Arjun Nair (son)\nExisting Diseases: none\nHospitalization History: c-section delivery in 2017\nSmoker: False\nAlcohol: False\nSource Form: hdfc_easy_health",
+    "metadata": {
+      "insurer": "HDFC ERGO",
+      "product_name": "Easy Health",
+      "proposal_type": "health",
+      "source_form": "hdfc_easy_health"
+    },
+    "original_document": {
+      "proposal_id": "DUMMY-HDFC-EASY-001",
+      "insurer": "HDFC ERGO",
+      "product_name": "Easy Health",
+      "proposal_type": "health",
+      "proposer_details": {
+        "full_name": "Priya Nair",
+        "short_name": "Priya",
+        "gender": "female",
+        "date_of_birth": "1990-07-05",
+        "age": 34,
+        "marital_status": "married",
+        "nationality": "Indian",
+        "residential_status": "resident",
+        "contact": {
+          "mobile": "9988776655",
+          "email": "priya.nair@example.com",
+          "address": "B-302, Andheri East",
+          "city": "Mumbai",
+          "pincode": "400069",
+          "state": "Maharashtra"
+        },
+        "occupation": "School Teacher",
+        "nature_of_duties": "Teaching in a private school",
+        "annual_income": 600000
+      },
+      "policy_details": {
+        "sum_assured": 500000,
+        "term_years": 1,
+        "premium_mode": "yearly",
+        "plan_variation": "family floater"
+      },
+      "nominee_details": {
+        "name": "Arjun Nair",
+        "age": 7,
+        "relationship": "son"
+      },
+      "health_declarations": {
+        "height_cm": 160,
+        "weight_kg": 60,
+        "existing_diseases": [],
+        "hospitalization_last_3_years": "c-section delivery in 2017",
+        "smoker": false,
+        "alcohol": false
+      },
+      "existing_policies": [],
+      "metadata": {
+        "source_form": "hdfc_easy_health",
+        "ingest_timestamp": "2026-07-08T00:00:00Z"
+      }
+    }
+  },
+  {
+    "chunk_id": "DUMMY-ICICI-001-summary",
+    "proposal_id": "DUMMY-ICICI-001",
+    "source_file": "data\\proposals\\icici_dummy_001.json",
+    "text": "Proposal ID: DUMMY-ICICI-001\nInsurer: ICICI Lombard\nProduct: Complete Health Insurance\nType: health\nName: Rahul Verma\nAge: 29\nOccupation: Software Engineer\nAnnual Income: 900000\nCity: Pune\nState: Maharashtra\nSum Assured: 1000000\nPlan Variation: individual\nNominee: Suresh Verma (father)\nExisting Diseases: none\nHospitalization History: none\nSmoker: False\nAlcohol: False\nSource Form: icici_complete_health",
+    "metadata": {
+      "insurer": "ICICI Lombard",
+      "product_name": "Complete Health Insurance",
+      "proposal_type": "health",
+      "source_form": "icici_complete_health"
+    },
+    "original_document": {
+      "proposal_id": "DUMMY-ICICI-001",
+      "insurer": "ICICI Lombard",
+      "product_name": "Complete Health Insurance",
+      "proposal_type": "health",
+      "proposer_details": {
+        "full_name": "Rahul Verma",
+        "short_name": "Rahul",
+        "gender": "male",
+        "date_of_birth": "1995-03-15",
+        "age": 29,
+        "marital_status": "single",
+        "nationality": "Indian",
+        "residential_status": "resident",
+        "contact": {
+          "mobile": "9876543210",
+          "email": "rahul.verma@example.com",
+          "address": "Flat 204, Kalyani Nagar",
+          "city": "Pune",
+          "pincode": "411006",
+          "state": "Maharashtra"
+        },
+        "occupation": "Software Engineer",
+        "nature_of_duties": "Desk-based IT role in a software company",
+        "annual_income": 900000
+      },
+      "policy_details": {
+        "sum_assured": 1000000,
+        "term_years": 1,
+        "premium_mode": "yearly",
+        "plan_variation": "individual"
+      },
+      "nominee_details": {
+        "name": "Suresh Verma",
+        "age": 58,
+        "relationship": "father"
+      },
+      "health_declarations": {
+        "height_cm": 172,
+        "weight_kg": 70,
+        "existing_diseases": [],
+        "hospitalization_last_3_years": "none",
+        "smoker": false,
+        "alcohol": false
+      },
+      "existing_policies": [],
+      "metadata": {
+        "source_form": "icici_complete_health",
+        "ingest_timestamp": "2026-07-08T00:00:00Z"
+      }
+    }
+  },
+  {
+    "chunk_id": "DUMMY-ICICI-002-summary",
+    "proposal_id": "DUMMY-ICICI-002",
+    "source_file": "data\\proposals\\icici_dummy_002.json",
+    "text": "Proposal ID: DUMMY-ICICI-002\nInsurer: ICICI Lombard\nProduct: Complete Health Insurance\nType: health\nName: Meena Kulkarni\nAge: 36\nOccupation: Chartered Accountant\nAnnual Income: 1800000\nCity: Ahmedabad\nState: Gujarat\nSum Assured: 1500000\nPlan Variation: family floater\nNominee: Nikhil Kulkarni (husband)\nExisting Diseases: hypothyroidism\nHospitalization History: none\nSmoker: False\nAlcohol: False\nSource Form: icici_complete_health",
+    "metadata": {
+      "insurer": "ICICI Lombard",
+      "product_name": "Complete Health Insurance",
+      "proposal_type": "health",
+      "source_form": "icici_complete_health"
+    },
+    "original_document": {
+      "proposal_id": "DUMMY-ICICI-002",
+      "insurer": "ICICI Lombard",
+      "product_name": "Complete Health Insurance",
+      "proposal_type": "health",
+      "proposer_details": {
+        "full_name": "Meena Kulkarni",
+        "short_name": "Meena",
+        "gender": "female",
+        "date_of_birth": "1988-01-12",
+        "age": 36,
+        "marital_status": "married",
+        "nationality": "Indian",
+        "residential_status": "resident",
+        "contact": {
+          "mobile": "9898981212",
+          "email": "meena.k@example.com",
+          "address": "7 Green Park Society",
+          "city": "Ahmedabad",
+          "pincode": "380015",
+          "state": "Gujarat"
+        },
+        "occupation": "Chartered Accountant",
+        "nature_of_duties": "Professional services and client advisory",
+        "annual_income": 1800000
+      },
+      "policy_details": {
+        "sum_assured": 1500000,
+        "term_years": 1,
+        "premium_mode": "yearly",
+        "plan_variation": "family floater"
+      },
+      "nominee_details": {
+        "name": "Nikhil Kulkarni",
+        "age": 39,
+        "relationship": "husband"
+      },
+      "health_declarations": {
+        "height_cm": 158,
+        "weight_kg": 64,
+        "existing_diseases": [
+          "hypothyroidism"
+        ],
+        "hospitalization_last_3_years": "none",
+        "smoker": false,
+        "alcohol": false
+      },
+      "existing_policies": [
+        {
+          "insurer": "Star Health",
+          "policy_type": "health",
+          "sum_assured": 500000,
+          "policy_year": 2022
+        }
+      ],
+      "metadata": {
+        "source_form": "icici_complete_health",
+        "ingest_timestamp": "2026-07-08T00:00:00Z"
+      }
+    }
+  },
+  {
+    "chunk_id": "DUMMY-LIC-300-001-summary",
+    "proposal_id": "DUMMY-LIC-300-001",
+    "source_file": "data\\proposals\\lic_dummy_001.json",
+    "text": "Proposal ID: DUMMY-LIC-300-001\nInsurer: LIC\nProduct: LIC Jeevan Anand\nType: life\nName: Sandeep Sharma\nAge: 40\nOccupation: Small business owner\nAnnual Income: 1200000\nCity: Chandigarh\nState: Chandigarh\nSum Assured: 2500000\nPlan Variation: individual\nNominee: Neha Sharma (wife)\nExisting Diseases: borderline hypertension\nHospitalization History: none\nSmoker: False\nAlcohol: False\nSource Form: lic_form_300",
+    "metadata": {
+      "insurer": "LIC",
+      "product_name": "LIC Jeevan Anand",
+      "proposal_type": "life",
+      "source_form": "lic_form_300"
+    },
+    "original_document": {
+      "proposal_id": "DUMMY-LIC-300-001",
+      "insurer": "LIC",
+      "product_name": "LIC Jeevan Anand",
+      "proposal_type": "life",
+      "proposer_details": {
+        "full_name": "Sandeep Sharma",
+        "short_name": "Sandeep",
+        "gender": "male",
+        "date_of_birth": "1984-11-20",
+        "age": 40,
+        "marital_status": "married",
+        "nationality": "Indian",
+        "residential_status": "resident",
+        "contact": {
+          "mobile": "9876001122",
+          "email": "sandeep.sharma@example.com",
+          "address": "House 17, Sector 9",
+          "city": "Chandigarh",
+          "pincode": "160009",
+          "state": "Chandigarh"
+        },
+        "occupation": "Small business owner",
+        "nature_of_duties": "Runs a retail garment shop",
+        "annual_income": 1200000
+      },
+      "policy_details": {
+        "sum_assured": 2500000,
+        "term_years": 20,
+        "premium_mode": "yearly",
+        "plan_variation": "individual"
+      },
+      "nominee_details": {
+        "name": "Neha Sharma",
+        "age": 36,
+        "relationship": "wife"
+      },
+      "health_declarations": {
+        "height_cm": 168,
+        "weight_kg": 74,
+        "existing_diseases": [
+          "borderline hypertension"
+        ],
+        "hospitalization_last_3_years": "none",
+        "smoker": false,
+        "alcohol": false
+      },
+      "existing_policies": [
+        {
+          "insurer": "LIC",
+          "policy_type": "endowment",
+          "sum_assured": 500000,
+          "policy_year": 2015
+        }
+      ],
+      "metadata": {
+        "source_form": "lic_form_300",
+        "ingest_timestamp": "2026-07-08T00:00:00Z"
+      }
+    }
+  },
+  {
+    "chunk_id": "DUMMY-LIC-300-002-summary",
+    "proposal_id": "DUMMY-LIC-300-002",
+    "source_file": "data\\proposals\\lic_dummy_002.json",
+    "text": "Proposal ID: DUMMY-LIC-300-002\nInsurer: LIC\nProduct: LIC New Term Assurance\nType: life\nName: Amitabh Rao\nAge: 49\nOccupation: Regional Sales Manager\nAnnual Income: 2200000\nCity: Bengaluru\nState: Karnataka\nSum Assured: 5000000\nPlan Variation: individual\nNominee: Pooja Rao (wife)\nExisting Diseases: type 2 diabetes\nHospitalization History: routine diabetes evaluation in 2024\nSmoker: False\nAlcohol: True\nSource Form: lic_form_300",
+    "metadata": {
+      "insurer": "LIC",
+      "product_name": "LIC New Term Assurance",
+      "proposal_type": "life",
+      "source_form": "lic_form_300"
+    },
+    "original_document": {
+      "proposal_id": "DUMMY-LIC-300-002",
+      "insurer": "LIC",
+      "product_name": "LIC New Term Assurance",
+      "proposal_type": "life",
+      "proposer_details": {
+        "full_name": "Amitabh Rao",
+        "short_name": "Amitabh",
+        "gender": "male",
+        "date_of_birth": "1976-08-03",
+        "age": 49,
+        "marital_status": "married",
+        "nationality": "Indian",
+        "residential_status": "resident",
+        "contact": {
+          "mobile": "9811112233",
+          "email": "amitabh.rao@example.com",
+          "address": "12 Lake View Road",
+          "city": "Bengaluru",
+          "pincode": "560034",
+          "state": "Karnataka"
+        },
+        "occupation": "Regional Sales Manager",
+        "nature_of_duties": "Frequent travel and sales team management",
+        "annual_income": 2200000
+      },
+      "policy_details": {
+        "sum_assured": 5000000,
+        "term_years": 15,
+        "premium_mode": "yearly",
+        "plan_variation": "individual"
+      },
+      "nominee_details": {
+        "name": "Pooja Rao",
+        "age": 45,
+        "relationship": "wife"
+      },
+      "health_declarations": {
+        "height_cm": 175,
+        "weight_kg": 82,
+        "existing_diseases": [
+          "type 2 diabetes"
+        ],
+        "hospitalization_last_3_years": "routine diabetes evaluation in 2024",
+        "smoker": false,
+        "alcohol": true
+      },
+      "existing_policies": [
+        {
+          "insurer": "Max Life",
+          "policy_type": "term",
+          "sum_assured": 3000000,
+          "policy_year": 2021
+        }
+      ],
+      "metadata": {
+        "source_form": "lic_form_300",
+        "ingest_timestamp": "2026-07-08T00:00:00Z"
+      }
+    }
+  }
+]

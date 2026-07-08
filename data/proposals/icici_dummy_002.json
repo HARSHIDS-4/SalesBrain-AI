@@ -1,0 +1,60 @@
+{
+  "proposal_id": "DUMMY-ICICI-002",
+  "insurer": "ICICI Lombard",
+  "product_name": "Complete Health Insurance",
+  "proposal_type": "health",
+  "proposer_details": {
+    "full_name": "Meena Kulkarni",
+    "short_name": "Meena",
+    "gender": "female",
+    "date_of_birth": "1988-01-12",
+    "age": 36,
+    "marital_status": "married",
+    "nationality": "Indian",
+    "residential_status": "resident",
+    "contact": {
+      "mobile": "9898981212",
+      "email": "meena.k@example.com",
+      "address": "7 Green Park Society",
+      "city": "Ahmedabad",
+      "pincode": "380015",
+      "state": "Gujarat"
+    },
+    "occupation": "Chartered Accountant",
+    "nature_of_duties": "Professional services and client advisory",
+    "annual_income": 1800000
+  },
+  "policy_details": {
+    "sum_assured": 1500000,
+    "term_years": 1,
+    "premium_mode": "yearly",
+    "plan_variation": "family floater"
+  },
+  "nominee_details": {
+    "name": "Nikhil Kulkarni",
+    "age": 39,
+    "relationship": "husband"
+  },
+  "health_declarations": {
+    "height_cm": 158,
+    "weight_kg": 64,
+    "existing_diseases": [
+      "hypothyroidism"
+    ],
+    "hospitalization_last_3_years": "none",
+    "smoker": false,
+    "alcohol": false
+  },
+  "existing_policies": [
+    {
+      "insurer": "Star Health",
+      "policy_type": "health",
+      "sum_assured": 500000,
+      "policy_year": 2022
+    }
+  ],
+  "metadata": {
+    "source_form": "icici_complete_health",
+    "ingest_timestamp": "2026-07-08T00:00:00Z"
+  }
+}

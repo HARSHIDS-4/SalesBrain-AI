@@ -1,0 +1,60 @@
+{
+  "proposal_id": "DUMMY-LIC-300-001",
+  "insurer": "LIC",
+  "product_name": "LIC Jeevan Anand",
+  "proposal_type": "life",
+  "proposer_details": {
+    "full_name": "Sandeep Sharma",
+    "short_name": "Sandeep",
+    "gender": "male",
+    "date_of_birth": "1984-11-20",
+    "age": 40,
+    "marital_status": "married",
+    "nationality": "Indian",
+    "residential_status": "resident",
+    "contact": {
+      "mobile": "9876001122",
+      "email": "sandeep.sharma@example.com",
+      "address": "House 17, Sector 9",
+      "city": "Chandigarh",
+      "pincode": "160009",
+      "state": "Chandigarh"
+    },
+    "occupation": "Small business owner",
+    "nature_of_duties": "Runs a retail garment shop",
+    "annual_income": 1200000
+  },
+  "policy_details": {
+    "sum_assured": 2500000,
+    "term_years": 20,
+    "premium_mode": "yearly",
+    "plan_variation": "individual"
+  },
+  "nominee_details": {
+    "name": "Neha Sharma",
+    "age": 36,
+    "relationship": "wife"
+  },
+  "health_declarations": {
+    "height_cm": 168,
+    "weight_kg": 74,
+    "existing_diseases": [
+      "borderline hypertension"
+    ],
+    "hospitalization_last_3_years": "none",
+    "smoker": false,
+    "alcohol": false
+  },
+  "existing_policies": [
+    {
+      "insurer": "LIC",
+      "policy_type": "endowment",
+      "sum_assured": 500000,
+      "policy_year": 2015
+    }
+  ],
+  "metadata": {
+    "source_form": "lic_form_300",
+    "ingest_timestamp": "2026-07-08T00:00:00Z"
+  }
+}

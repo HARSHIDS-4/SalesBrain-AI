@@ -1,0 +1,60 @@
+{
+  "proposal_id": "string",
+  "insurer": "string",
+  "product_name": "string",
+  "proposal_type": "string",
+  "proposer_details": {
+    "full_name": "string",
+    "short_name": "string",
+    "gender": "string",
+    "date_of_birth": "YYYY-MM-DD",
+    "age": 0,
+    "marital_status": "string",
+    "nationality": "string",
+    "residential_status": "string",
+    "contact": {
+      "mobile": "string",
+      "email": "string",
+      "address": "string",
+      "city": "string",
+      "pincode": "string",
+      "state": "string"
+    },
+    "occupation": "string",
+    "nature_of_duties": "string",
+    "annual_income": 0
+  },
+  "policy_details": {
+    "sum_assured": 0,
+    "term_years": 0,
+    "premium_mode": "string",
+    "plan_variation": "string"
+  },
+  "nominee_details": {
+    "name": "string",
+    "age": 0,
+    "relationship": "string"
+  },
+  "health_declarations": {
+    "height_cm": 0,
+    "weight_kg": 0,
+    "existing_diseases": [
+      "string"
+    ],
+    "hospitalization_last_3_years": "string",
+    "smoker": false,
+    "alcohol": false
+  },
+  "existing_policies": [
+    {
+      "insurer": "string",
+      "policy_type": "string",
+      "sum_assured": 0,
+      "policy_year": 0
+    }
+  ],
+  "metadata": {
+    "source_form": "string",
+    "ingest_timestamp": "string"
+  }
+}

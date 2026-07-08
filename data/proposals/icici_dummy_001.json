@@ -1,0 +1,51 @@
+{
+  "proposal_id": "DUMMY-ICICI-001",
+  "insurer": "ICICI Lombard",
+  "product_name": "Complete Health Insurance",
+  "proposal_type": "health",
+  "proposer_details": {
+    "full_name": "Rahul Verma",
+    "short_name": "Rahul",
+    "gender": "male",
+    "date_of_birth": "1995-03-15",
+    "age": 29,
+    "marital_status": "single",
+    "nationality": "Indian",
+    "residential_status": "resident",
+    "contact": {
+      "mobile": "9876543210",
+      "email": "rahul.verma@example.com",
+      "address": "Flat 204, Kalyani Nagar",
+      "city": "Pune",
+      "pincode": "411006",
+      "state": "Maharashtra"
+    },
+    "occupation": "Software Engineer",
+    "nature_of_duties": "Desk-based IT role in a software company",
+    "annual_income": 900000
+  },
+  "policy_details": {
+    "sum_assured": 1000000,
+    "term_years": 1,
+    "premium_mode": "yearly",
+    "plan_variation": "individual"
+  },
+  "nominee_details": {
+    "name": "Suresh Verma",
+    "age": 58,
+    "relationship": "father"
+  },
+  "health_declarations": {
+    "height_cm": 172,
+    "weight_kg": 70,
+    "existing_diseases": [],
+    "hospitalization_last_3_years": "none",
+    "smoker": false,
+    "alcohol": false
+  },
+  "existing_policies": [],
+  "metadata": {
+    "source_form": "icici_complete_health",
+    "ingest_timestamp": "2026-07-08T00:00:00Z"
+  }
+}

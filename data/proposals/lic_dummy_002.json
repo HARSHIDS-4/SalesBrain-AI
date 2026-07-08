@@ -1,0 +1,60 @@
+{
+  "proposal_id": "DUMMY-LIC-300-002",
+  "insurer": "LIC",
+  "product_name": "LIC New Term Assurance",
+  "proposal_type": "life",
+  "proposer_details": {
+    "full_name": "Amitabh Rao",
+    "short_name": "Amitabh",
+    "gender": "male",
+    "date_of_birth": "1976-08-03",
+    "age": 49,
+    "marital_status": "married",
+    "nationality": "Indian",
+    "residential_status": "resident",
+    "contact": {
+      "mobile": "9811112233",
+      "email": "amitabh.rao@example.com",
+      "address": "12 Lake View Road",
+      "city": "Bengaluru",
+      "pincode": "560034",
+      "state": "Karnataka"
+    },
+    "occupation": "Regional Sales Manager",
+    "nature_of_duties": "Frequent travel and sales team management",
+    "annual_income": 2200000
+  },
+  "policy_details": {
+    "sum_assured": 5000000,
+    "term_years": 15,
+    "premium_mode": "yearly",
+    "plan_variation": "individual"
+  },
+  "nominee_details": {
+    "name": "Pooja Rao",
+    "age": 45,
+    "relationship": "wife"
+  },
+  "health_declarations": {
+    "height_cm": 175,
+    "weight_kg": 82,
+    "existing_diseases": [
+      "type 2 diabetes"
+    ],
+    "hospitalization_last_3_years": "routine diabetes evaluation in 2024",
+    "smoker": false,
+    "alcohol": true
+  },
+  "existing_policies": [
+    {
+      "insurer": "Max Life",
+      "policy_type": "term",
+      "sum_assured": 3000000,
+      "policy_year": 2021
+    }
+  ],
+  "metadata": {
+    "source_form": "lic_form_300",
+    "ingest_timestamp": "2026-07-08T00:00:00Z"
+  }
+}
